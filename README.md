@@ -4,9 +4,9 @@ Also Training/Inference code and configuration files will be added.
 
 # Person Re-identification Datasets: 
 
-- [**Market-1501**]([https://www.v7labs.com/open-datasets/market-1501]) 
-- [**CUHK03**]([http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html])
-- [**DukeMTMC-reID**]([https://exposing.ai/duke_mtmc/])
+- [**Market-1501**](https://www.v7labs.com/open-datasets/market-1501) 
+- [**CUHK03**](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)
+- [**DukeMTMC-reID**](https://exposing.ai/duke_mtmc/)
 
 
 Referance papers and repositories : 
