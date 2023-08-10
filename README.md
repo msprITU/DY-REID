@@ -9,7 +9,8 @@ Also Training/Inference code and configuration files will be added.
 - [**DukeMTMC-reID**](https://exposing.ai/duke_mtmc/)
 
 
-Referance papers and repositories : 
+# Referance papers and repositories : 
+
 Baseline and CaceNet person ReID models: https://github.com/TencentYoutuResearch/PersonReID-YouReID
 Yu, F., Jiang, X., Gong, Y., Zhao, S., Guo, X., Zheng, W.-S., Zheng,  F., Sun, X.: Devil’s in the details: Aligning visual clues for conditional embedding in person re-identification. In: Proc. IEEE CVPR (2021)
 
