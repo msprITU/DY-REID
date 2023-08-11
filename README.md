@@ -1,5 +1,5 @@
 # DY-REID
-In this repo, you can find the model file created by training with DY-Cace and DY-BL. 
+In this repo, you can find the model files created by training with DY-Cace and DY-BL. 
 Also Training/Inference code and configuration files will be added.
 
 # Person Re-identification Datasets: 
