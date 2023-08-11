@@ -9,7 +9,7 @@ Also Training/Inference code and configuration files will be added.
 - [**DukeMTMC-reID**](https://exposing.ai/duke_mtmc/)
 
 
-# Referance papers and repositories : 
+# Reference papers and repositories : 
 
 Baseline and CaceNet person ReID models: https://github.com/TencentYoutuResearch/PersonReID-YouReID
 
