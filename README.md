@@ -1,5 +1,6 @@
 # DY-REID
 In this repo, you can find the [**model files**](https://drive.google.com/drive/folders/16O3ncmayQI6HPaX32zfn13lz6_t_hme6?usp=sharing) created by training with DY-Cace and DY-BL on four different datasets. 
+The ImageNet pre-trained model for dynamic ResNet-50 can be downloaded [**here**](https://drive.google.com/file/d/14VUXecopj3aTu1s4IKdT2FsPt7Iq7BDK/view). Model needs to be placed in _pretrained_models_ directory. 
 Also Training/Inference code and configuration files will be added.
 
 # Person Re-identification Datasets: 
