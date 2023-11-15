@@ -1,0 +1,11 @@
+gpus: [0,1]
+####yaml: neccesary yaml file
+yaml: /content/drive/MyDrive/PersonReID-YouReID-flz/example/cacenet/cacenet.yaml
+####task_id: directory of output file
+task_id: /content/drive/MyDrive/PersonReID-YouReID-flz/output/output_cace_duke_dyn
+eval: true
+eval_model_name: checkpoint_epoch80.pth 
+convert_to_onnx: false 
+debug: false
+resume_model: false 
+resume_model_name: cace_dyn_cuhk_epoch80.pth 
