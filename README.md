@@ -3,7 +3,7 @@
 You can download and use the [**model files**](https://drive.google.com/drive/folders/16O3ncmayQI6HPaX32zfn13lz6_t_hme6?usp=sharing) created by training with DY-Cace and DY-BL on four different datasets for inference.
 
 
-Alternatively for training the networks, download the dynamic ResNet-50 model trained on [**ImageNet**](https://drive.google.com/file/d/14VUXecopj3aTu1s4IKdT2FsPt7Iq7BDK/view) into  _pretrained_models_ directory.
+Alternatively for training the networks, download the dynamic ResNet-50 model trained on [**ImageNet**]([https://drive.google.com/file/d/14VUXecopj3aTu1s4IKdT2FsPt7Iq7BDK/view](https://drive.google.com/drive/folders/16O3ncmayQI6HPaX32zfn13lz6_t_hme6?usp=sharing)) into  _pretrained_models_ directory.
 
 
 Training/Inference code and configuration files will be added.
